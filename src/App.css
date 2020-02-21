@@ -22,8 +22,8 @@ body,
   position: absolute;
   max-width: 500px;
   max-height: 500px;
-  width: 50ch;
-  height: 5ch;
+  width: 216px;
+  height: 48px;
   cursor: pointer;
   will-change: transform, opacity;
 }
@@ -39,7 +39,9 @@ body,
   text-align: center;
   padding-top: 1rem;
   border-radius: 120rem;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI";
+  width: 216px;
+  height: 48px;
 }
 
 .front {
@@ -48,5 +50,7 @@ body,
   text-align: center;
   padding-top: 1rem;
   border-radius: 120rem;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 216px;
+  height: 48px;
+  font: Semibold 21px/28px Segoe UI;
 }
